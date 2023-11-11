@@ -4,6 +4,7 @@ import java.nio.ByteBuffer;
 import java.nio.channels.SocketChannel;
 import java.util.Scanner;
 
+//public class
 public class NonBlockingClient {
     public static void main(String[] args) {
         // Informasi server yang akan dihubungi
