@@ -11,6 +11,7 @@ import java.util.Set;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 
+//public class
 public class NonBlockingServer {
     private Selector selector; // Selector untuk monitoring event
     private ServerSocketChannel serverSocketChannel; // Channel server untuk menerima koneksi
